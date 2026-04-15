@@ -134,9 +134,3 @@ The analysis uses HMDA mortgage-level data and applies machine learning and stat
 - Translating model outputs into policy insights  
 
 ---
-
-## Final Takeaway
-
-This project demonstrates how machine learning and statistical models can be used to evaluate **fairness and bias in high-stakes decision systems**.
-
-By combining predictive modeling with careful interpretation, the analysis highlights how disparities in outcomes can persist even after controlling for observable factors, emphasizing the importance of responsible data-driven decision-making in public policy.
