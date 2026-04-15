@@ -1,0 +1,150 @@
+Feature,Coefficient
+const,0.0
+loan_amount,-0.1018164856982559
+loan_to_value_ratio,0.1471619210942391
+interest_rate,0.28901232481353883
+total_loan_costs,0.021019564722660547
+origination_charges,0.05430334344024864
+loan_term,0.0
+property_value,-0.005708956043959838
+income,0.014117467071919063
+tract_population,-0.009015801889195417
+tract_minority_population_percent,-0.0006694410286279245
+ffiec_msa_md_median_family_income,0.018407947211037667
+tract_to_msa_income_percentage,-0.00773570793151439
+tract_owner_occupied_units,0.006353445426432416
+tract_one_to_four_family_homes,0.006895275230397928
+tract_median_age_of_housing_units,-0.0008311603993563159
+conforming_loan_limit_NC,-0.0012106869363972428
+derived_loan_product_type_Conventional:Subordinate Lien,-0.003077842948115752
+derived_loan_product_type_FHA:First Lien,0.230336751169952
+derived_loan_product_type_FSA/RHS:First Lien,0.015873821444814543
+derived_loan_product_type_VA:First Lien,-0.0704239567150708
+derived_dwelling_category_Single Family (1-4 Units):Site-Built,-0.00040041149893900164
+"purchaser_type_Commercial bank, savings bank, or savings association",-0.008890286121708587
+"purchaser_type_Credit union, mortgage company, or finance company",0.010215595126842695
+purchaser_type_Fannie Mae,0.0
+purchaser_type_Freddie Mac,-0.015804112384192607
+purchaser_type_Ginnie Mae,-0.0003882988672495616
+purchaser_type_Life insurance company,0.00019915292626946046
+purchaser_type_Not applicable,0.003494678793516094
+purchaser_type_Other type of purchaser,-0.0010912363230044517
+purchaser_type_Private securitizer,0.0030530797115304173
+preapproval_Preapproval requested,-0.0052249381973413925
+loan_type_Federal Housing Administration insured (FHA),0.00010603880627901326
+loan_type_USDA Rural Housing Service or Farm Service Agency guaranteed (RHS or FSA),0.0005064603848048815
+loan_type_Veterans Affairs guaranteed (VA),-0.0024360199868888746
+lien_status_Secured by a subordinate lien,-2.0345772542838154e-07
+reverse_mortgage_Not a reverse mortgage,0.0
+open-end_line_of_credit_Not an open-end line of credit,0.0
+hoepa_status_Not a high-cost mortgage,-0.0
+hoepa_status_Not applicable,-0.0010225664168639532
+negative_amortization_No negative amortization,0.0
+interest_only_payment_No interest-only payments,-0.0008691559080408902
+balloon_payment_No balloon payment,0.0
+other_nonamortizing_features_Other non-fully amortizing features,0.0032822253769644377
+construction_method_Site-built,-5.938850246550644e-07
+manufactured_home_secured_property_type_Not applicable,-5.770973849385115e-17
+manufactured_home_land_property_interest_Not applicable,-6.354298446801491e-20
+total_units_2,0.007793965931005318
+total_units_3,0.005031716308617301
+total_units_4,0.00482161994586645
+debt_to_income_ratio_30%-<36%,0.010441339692890019
+debt_to_income_ratio_36,0.006778666004262478
+debt_to_income_ratio_37,0.006983026706770746
+debt_to_income_ratio_38,0.008273585632330277
+debt_to_income_ratio_39,0.008163606670103985
+debt_to_income_ratio_40,0.00913200677794895
+debt_to_income_ratio_41,0.014245870763245835
+debt_to_income_ratio_42,0.012820543271551778
+debt_to_income_ratio_43,0.01452646639693636
+debt_to_income_ratio_44,0.02002784904634337
+debt_to_income_ratio_45,0.011357989306631521
+debt_to_income_ratio_46,0.010033966979790034
+debt_to_income_ratio_47,0.009371995150920838
+debt_to_income_ratio_48,0.012390693219969098
+debt_to_income_ratio_49,0.01242977175098261
+debt_to_income_ratio_50%-60%,0.0102406196430258
+debt_to_income_ratio_<20%,-0.0007511814305184224
+debt_to_income_ratio_>60%,0.0012751861334318717
+applicant_credit_score_type_Exempt,0.00016052705414505266
+applicant_credit_score_type_Experian Fair Isaac,0.004764606663101817
+applicant_credit_score_type_FICO Risk Score Classic 04,0.005689417310190457
+applicant_credit_score_type_FICO Risk Score Classic 98,0.003736906864532592
+applicant_credit_score_type_More than one credit scoring model,0.0061278717885547345
+applicant_credit_score_type_Not applicable,-0.0038339758209753085
+applicant_credit_score_type_Other credit scoring model,0.004524514134424551
+applicant_credit_score_type_VantageScore 2.0,0.006694348673221771
+co-applicant_credit_score_type_Exempt,4.195184207759207e-05
+co-applicant_credit_score_type_Experian Fair Isaac,0.0024545494523561815
+co-applicant_credit_score_type_FICO Risk Score Classic 04,0.0008939145228920707
+co-applicant_credit_score_type_FICO Risk Score Classic 98,0.002186626957956208
+co-applicant_credit_score_type_More than one credit scoring model,0.002550319250992495
+co-applicant_credit_score_type_No co-applicant,-0.0409804113367984
+co-applicant_credit_score_type_Not applicable,-0.007251484093736996
+co-applicant_credit_score_type_Other credit scoring model,0.004573507478081425
+co-applicant_credit_score_type_VantageScore 2.0,0.0030065588365834383
+applicant_ethnicity-1_Hispanic or Latino,0.017772150672100508
+"applicant_ethnicity-1_Information not provided by applicant in mail, internet, or telephone application",0.007932665782416908
+applicant_ethnicity-1_Not applicable,0.00025957683893421894
+co-applicant_ethnicity-1_Hispanic or Latino,0.008451483325088889
+"co-applicant_ethnicity-1_Information not provided by applicant in mail, internet, or telephone application",0.008732870404010993
+co-applicant_ethnicity-1_No co-applicant,0.0
+co-applicant_ethnicity-1_Not applicable,0.00038890215219317234
+applicant_ethnicity_observed_Not applicable,0.017447353848510157
+applicant_ethnicity_observed_Not collected on the basis of visual observation or surname,0.004864048490135568
+co-applicant_ethnicity_observed_No co-applicant,0.0
+co-applicant_ethnicity_observed_Not applicable,0.0016667985509990603
+co-applicant_ethnicity_observed_Not collected on the basis of visual observation or surname,-0.0
+applicant_race-1_American Indian or Alaska Native,-0.0013952456200354902
+applicant_race-1_Asian,-0.0013172781947761488
+applicant_race-1_Black or African American,0.016835138242451402
+"applicant_race-1_Information not provided by applicant in mail, internet, or telephone application",-0.0011499095680103846
+applicant_race-1_Native Hawaiian or Other Pacific Islander,0.0005553960078742026
+applicant_race-1_Not applicable,-0.005547456863451446
+co-applicant_race-1_American Indian or Alaska Native,-4.703345167115402e-05
+co-applicant_race-1_Asian,0.004982371182475674
+co-applicant_race-1_Black or African American,0.002625151761867223
+"co-applicant_race-1_Information not provided by applicant in mail, internet, or telephone application",-0.0033786617631916846
+co-applicant_race-1_Native Hawaiian or Other Pacific Islander,-0.0008608212079314218
+co-applicant_race-1_No co-applicant,0.04072841146229515
+applicant_race_observed_Not applicable,-0.038855110689246755
+applicant_race_observed_Not collected on the basis of visual observation or surname,0.005059062502640933
+co-applicant_race_observed_No co-applicant,9.40462407527164e-07
+co-applicant_race_observed_Not applicable,0.022106271785651874
+co-applicant_race_observed_Not collected on the basis of visual observation or surname,-0.008418922314246423
+applicant_sex_Applicant selected both male and female,0.0004015314249807095
+applicant_sex_Female,-0.0017092947857504464
+"applicant_sex_Information not provided by applicant in mail, internet, or telephone application",-0.006843413696264638
+applicant_sex_Not applicable,-0.00025120490335646314
+co-applicant_sex_Co-applicant selected both male and female,-0.002850431440711035
+co-applicant_sex_Female,-0.009530839873791833
+"co-applicant_sex_Information not provided by applicant in mail, internet, or telephone application",-0.00454208934608951
+co-applicant_sex_No co-applicant,0.0
+applicant_sex_observed_Not applicable,0.023221267571969864
+applicant_sex_observed_Not collected on the basis of visual observation or surname,-0.015172328120547782
+co-applicant_sex_observed_No co-applicant,0.0
+co-applicant_sex_observed_Not applicable,-0.02392163408569153
+co-applicant_sex_observed_Not collected on the basis of visual observation or surname,0.014856236787286465
+applicant_age_35-44,0.012165902950744285
+applicant_age_45-54,0.016668381789690673
+applicant_age_55-64,0.016087924687710455
+applicant_age_65-74,0.008378482847154332
+applicant_age_<25,0.007721304532630174
+applicant_age_>74,0.005359895058267242
+co-applicant_age_35-44,0.0024333855517577876
+co-applicant_age_45-54,0.005562843702410663
+co-applicant_age_55-64,0.0015094687136614912
+co-applicant_age_65-74,0.003059783332576927
+co-applicant_age_8888,-0.004322835133433167
+co-applicant_age_9999,0.0
+co-applicant_age_<25,0.005438933775778067
+co-applicant_age_>74,0.0015125401105905397
+applicant_age_above_62_Yes,0.0
+submission_of_application_Submitted directly to your institution,-0.012223241859070767
+initially_payable_to_institution_Not initially payable to your institution,0.010242372344030592
+aus-1_Guaranteed Underwriting System (GUS),-0.014615170295921897
+aus-1_Loan Prospector (LP) or Loan Product Advisor,-0.0005070247141306031
+aus-1_Not applicable,-0.002626658873221729
+aus-1_Other,-0.007559044945397952
+aus-1_Technology Open to Approved Lenders (TOTAL) Scorecard,0.0008946877691161379
