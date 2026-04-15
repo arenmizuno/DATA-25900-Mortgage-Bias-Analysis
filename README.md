@@ -6,8 +6,8 @@
 **Term:** Spring 2024  
 
 **Team Members:**  
-- Ryan Winston  
 - Aren Mizuno  
+- Ryan Winston  
 
 ---
 
