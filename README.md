@@ -13,9 +13,15 @@
 
 ## Overview
 
-This repository contains my final project for *DATA 25900*, a course focused on applying machine learning and statistical methods to public policy and real-world decision-making.
+This repository contains my final project for DATA 25900: Ethics, Fairness, Responsibility, and Privacy in Data Science.
 
-The course emphasized identifying bias, evaluating fairness, and applying quantitative models to analyze disparities in outcomes across demographic groups. Students developed skills in regression modeling, model evaluation, and interpreting results in policy-relevant contexts.
+The course takes a technical approach to examining societal issues related to the collection, use, and generalization of data. It covers the full data science pipeline—including data acquisition, cleaning, sampling, feature engineering, statistical modeling, and machine learning—while critically evaluating the challenges that arise at each stage.
+
+A central focus of the course is identifying and addressing bias in data and models, assessing fairness in algorithmic decision-making, and understanding how modeling choices can impact different demographic groups. The course also explores topics such as experimental design, data visualization, and user interface considerations, emphasizing how technical decisions influence real-world outcomes.
+
+In addition, the course examines privacy from multiple perspectives (statistical, legal, and philosophical), including anonymization and deanonymization techniques, as well as compliance with legal and contractual data requirements. It concludes with discussions on current controversies surrounding the use and misuse of data.
+
+Through this project, I apply these concepts to analyze disparities, evaluate model fairness, and develop data-driven insights in a policy-relevant context.
 
 ---
 
